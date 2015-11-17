@@ -9,3 +9,6 @@ public class Duplicate {
 	System.out.println("Duplicate: " + numbers[i]);
 	}
 	}}}
+	
+	//Rakshit (Rocky) Bhatt 
+	//Copyright 2015
